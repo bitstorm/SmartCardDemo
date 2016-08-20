@@ -1,0 +1,8 @@
+target
+.project
+.classpath
+.metadata
+.settings
+.checkstyle
+.xml~
+bin
